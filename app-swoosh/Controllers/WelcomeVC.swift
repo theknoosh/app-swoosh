@@ -17,7 +17,6 @@ class WelcomeVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
     }
     
     @IBAction func unwindFromSkillVC(unwindSeque: UIStoryboardSegue){
